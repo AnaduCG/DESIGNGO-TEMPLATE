@@ -1,0 +1,48 @@
+learn how to lnk 2 css files together
+/////////////////////////////////////
+
+in style.css
+>>>>>>>>>>>>>>>>>>>>>
+
+color variables
+iamges width and height
+icons styling
+navigation
+
+
+in index.css
+>>>>>>>>>>>>>>>>>>>>>
+styles for the index page only
+
+
+
+in about.css
+>>>>>>>>>>>>>>>>>>>>>
+styles for the about (our company) page only
+
+
+
+in locations.css
+>>>>>>>>>>>>>>>>>>>>>
+styles for the locations page only
+
+
+
+in contact.css
+>>>>>>>>>>>>>>>>>>>>>
+styles for the contact page 
+
+
+
+
+
+
+colors>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+primary color = #d16e5b 
+primary color dark = #E7816B 
+dark color #231E22
+body main = #FFFFFF
+image cbg = color #F8F9FB
+text color = #FBFFFF
+title color = #323033
+svg background = #efe6e7
