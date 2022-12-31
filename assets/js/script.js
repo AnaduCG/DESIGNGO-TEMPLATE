@@ -8,6 +8,7 @@ const navMenu = document.getElementById('nav_menu'),
 if (navToggle) {
     navToggle.addEventListener('click', () => {
         navMenu.classList.add('show_menu')
+        console.log("cli");
     })
 }
 
