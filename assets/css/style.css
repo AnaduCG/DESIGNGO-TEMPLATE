@@ -574,19 +574,19 @@ nav {
         padding: 0 50px;
         padding-top: 40px;
     }
-
+ .navlink__container{
+        display: none;
+    }
     .nav__togglers{
         display: block;
     }
-    .navlink__container{
-        display: none;
-    }
+   
     .close__nav, .open__nav{
-        display: none;
+        position: absolute;
     }
-    /* .close__nav{
-        display: none;
-    } */
+    .close__nav{
+        color: red;
+    }
 
     .hero__container, .page__title, .intouch__section {
         padding: 0px;
@@ -657,10 +657,6 @@ nav {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-    }
-
-    .nav__togglers div{
-        display: block;
     }
 
     
